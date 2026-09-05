@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://crusher-labs.github.io/uuid-generator/sitemap.xml

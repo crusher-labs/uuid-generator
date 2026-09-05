@@ -1,5 +1,7 @@
-@AGENTS.md
+# UUID/GUID Generator (moved)
 
-## Notes
+This tool moved to the consolidated tools site on 2026-09-03. **Do not edit anything here.**
 
-- World page (take-a-number). Conventions: workspace `AGENTS.md`, `docs/design-language.md` (tools section), the atlas. Verify at 1440 and 390 with Playwright `setViewportSize` before shipping.
+- Live: <https://tools.muhammadhassaanjaved.com/uuid-generator/>
+- Source: `tools-hub` repo, `uuid-generator/index.html` (workspace path `x:/crusher-labs/repos/tools-hub/uuid-generator/`)
+- This repo serves a redirect stub only, and is kept for its history.
